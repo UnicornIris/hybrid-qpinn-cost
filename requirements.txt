@@ -1,0 +1,7 @@
+# Versions used for the results in results/ (also recorded in each run's env.json).
+# Python 3.14.3, CPU only.
+torch==2.11.0
+pennylane==0.44.1
+pennylane-lightning==0.44.0
+numpy==2.4.4
+matplotlib
